@@ -1,3 +1,4 @@
+#José Daniel Aley Challenge
 # Turing Back End Challenge
 To complete this challenge, you need to ensure all route returns a similar response object as described in our API guide.
 To achieve this goal
@@ -48,3 +49,10 @@ mysql -u <dbuser> -D <databasename> -p < ./src/database/database.sql
 
 ## Request and Response Object API guide for all Endpoints
 Check [here](https://docs.google.com/document/d/1J12z1vPo8S5VEmcHGNejjJBOcqmPrr6RSQNdL58qJyE/edit?usp=sharing)
+
+
+
+i fix some bugs in the routes, and some problem to start the service, the babel was bad configured.
+To start the app just start with the file called "start.js".
+i didn´t finish anything because short time, i work on the project from 21/07/2019 4:30pm - 3:00am, and 22/07/2019 4:00pm- 10:00pm
+Thanks for the test, i learn to much
